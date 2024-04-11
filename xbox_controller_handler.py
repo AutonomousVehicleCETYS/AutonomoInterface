@@ -1,5 +1,6 @@
 import pygame
 
+
 class XboxController:
     def __init__(self):
         pygame.init()

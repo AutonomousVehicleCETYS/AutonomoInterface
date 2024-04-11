@@ -1,3 +1,5 @@
+import pygame
+
 from xbox_controller_handler import XboxController
 import time
 
